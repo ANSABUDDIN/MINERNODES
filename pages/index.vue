@@ -33,7 +33,7 @@
           <div
             class="banner_side_img col-12 text-center animate__animated animate__pulse animate__infinite"
           >
-            <img src="~assets/images/banner hero.png" alt="" />
+            <img src="~assets/images/banner hero.png" class="mount_img"  alt="" />
           </div>
           <div
             class="col-12 text-center mt-3 animate__animated animate__bounceInDown"

@@ -53,7 +53,7 @@ a {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 
 .banner_side_img {
@@ -61,7 +61,7 @@ a {
 }
 
 .banner_side_img img {
-  width: 400px;
+  /* width: 400px; */
 }
 
 .ban_head {
@@ -469,12 +469,16 @@ a {
 /* Tokenomics_sec */
 .Tokenomics_sec{
   background: rgba(255, 255, 255, 0.04);
-/* s1 */
+
 
 border: 1px solid #D39C2D;
 backdrop-filter: blur(54px);
-/* Note: backdrop-filter has minimal browser support */
+
 
 border-radius: 8px;
 
+}
+.mount_img{
+  width: 200px !important; 
+  height: 200px !important;
 }
